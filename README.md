@@ -1,5 +1,16 @@
-### Hi there 👋
-### My current pet project: https://github.com/ZetEps/react-messenger
+<p>My Tech stack</p>
+<p>
+  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  
+<p>  
 
+  
+### What i'm working on: <a href = "https://github.com/ZetEps/react-messenger">React messenger<a></p> 
+### What i'm learning:
+  <img src = "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZetEps&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZetEps&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
