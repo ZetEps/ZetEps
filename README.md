@@ -12,5 +12,5 @@
 ### What i'm learning:
   <img src = "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZetEps&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZetEps&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZetEpsilon&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZetEpsilon&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
