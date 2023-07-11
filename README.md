@@ -7,8 +7,6 @@
   
 <p>  
 
-  
-// ### What i'm working on: <a href = "https://github.com/ZetEps/react-messenger">React messenger<a></p> 
 ### What i'm learning:
   <span>
     <img src = "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
