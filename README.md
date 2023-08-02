@@ -14,7 +14,7 @@
   </span>
 
 ### Currently working on
-<a src = "https://github.com/HolyXQW/flutter_chess_app"/>
+<a src = "https://github.com/HolyXQW/flutter_chess_app">Flutter chess app</a>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZetEpsilon&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZetEpsilon&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
